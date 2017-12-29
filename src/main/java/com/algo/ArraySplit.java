@@ -24,7 +24,7 @@ public class ArraySplit {
         }
 
 
-        for(int x:array){
+        for (int x : array) {
             System.out.println(x);
         }
     }

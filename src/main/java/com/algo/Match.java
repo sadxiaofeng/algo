@@ -24,7 +24,7 @@ public class Match {
         boolean flag = true;
         boolean startFlag = false;
 
-        List<String> l = new ArrayList<>();
+        List<String> l = new ArrayList();
 
         int index = 0;
         for(Byte b : pattern.trim().getBytes()){
